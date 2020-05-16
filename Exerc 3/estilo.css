@@ -1,0 +1,35 @@
+#boot3 .row{
+    height: 120px;
+    background-color: #8eee8e;
+    
+}
+
+#boot3 .menor{
+    background-color: #8eee8e;
+}
+
+header{
+    background-color: #8eee8e;
+    height: 120px;
+    border: 1px solid;
+    border-radius: 20px;
+    text-align: center;
+
+}
+
+footer{
+    background-color: #8eee8e;
+    height: 120px;
+    border: 1px solid;
+    border-radius: 20px;
+    margin-top: 150px;
+    text-align: center;
+}
+
+.lateral{
+    border: 1px solid;
+    border-radius: 20px;
+}
+.maior{
+    height: 270px;
+}
